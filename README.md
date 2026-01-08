@@ -25,6 +25,6 @@
 | 48 | 0 | 4 | 138 | 214 | 0 | 0 | 108 | 1 | 1.5 | 2 | 1 |
 | 54 | 1 | 3 | 150 | 195 | 0 | 0 | 122 | 0 | 0.0 | 1 | 0 |
 
-**Model Performance:** MAE = 0.16806722689075632
+**Model Performance:** ACCURACY SCORE:0.8319327731092437
 
 Summary: The file contains 1,190 rows 📂 and 12 columns 📏 focused on heart health data. Ready for analysis! 🚀
